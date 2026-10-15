@@ -2,7 +2,6 @@
 🎓 **Computer Systems Engineering Student**  NED University of Engineering and Technology  
 💻 **Focus Areas:** Object-Oriented Programming (C++), Systems Logic (C), Python, Web Development & Full-Stack Development  
 📱 **Currently Working On:** Android App Development using Java & SQLite
-
 🗣️ **Interests:** Public Speaking, Tech Innovation, Frontend & UI/UX Design.
 
 ---
