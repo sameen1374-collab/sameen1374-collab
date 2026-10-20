@@ -1,18 +1,18 @@
 # Hi, I'm Syeda Sameen Fatima 👋
-🎓 **Computer Systems Engineering Student**  NED University of Engineering and Technology  
-💻 **Focus Areas:** Object-Oriented Programming (C++), Systems Logic (C), Python, Web Development & Full-Stack Development  
-📱 **Currently Working On:** Android App Development using Java & SQLite  
+🎓 **Computer Systems Engineering Student**  NED University of Engineering and Technology  .
+💻 **Focus Areas:** Object-Oriented Programming (C++), Systems Logic (C), Python, Web Development & Full-Stack Development  .
+📱 **Currently Working On:** Android App Development using Java & SQLite  .
 🗣️ **Interests:** Public Speaking, Tech Innovation, Frontend & UI/UX Design.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** C, C++, Java, Python, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries:** Django, Django REST Framework, React (Vite), LangChain
-- **Tools & Environments:** VS Code, Git & GitHub, GCC/MinGW, MATLAB, Multisim
-- **Databases:** SQLite
-- **AI & APIs:** Google Gemini API, REST API Integration
-- **Interests:** Computer Vision, System Architecture, Full-Stack Development, Media & Presentation Design
+- **Languages:** C, C++, Java, Python, JavaScript, HTML5, CSS3.
+- **Frameworks & Libraries:** Django, Django REST Framework, React (Vite), LangChain.
+- **Tools & Environments:** VS Code, Git & GitHub, GCC/MinGW, MATLAB, Multisim.
+- **Databases:** SQLite.
+- **AI & APIs:** Google Gemini API, REST API Integration.
+- **Interests:** Computer Vision, System Architecture, Full-Stack Development, Media & Presentation Design.
 
 ---
 
